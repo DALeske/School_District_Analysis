@@ -22,10 +22,10 @@ Once removed, the following analyses were done both before and after removal of 
 The following data samples demonstrate the successful removal of math and readings scores from 9th graders at Thomas High School.
 
 #### Initial Scores before replacement
-![Initial scores].(Resources/challenge_inital_scores.png)
+![Initial scores](Resources/challenge_inital_scores.png)
 
 #### Initial Scores after replacement
-![Initial scores after update].(Resources/challenge_inital_scores_NaN.png)
+![Initial scores after update](Resources/challenge_inital_scores_NaN.png)
 
 ### Math and Reading scores
 
