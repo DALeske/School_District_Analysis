@@ -74,7 +74,7 @@ Average math scores at Thomas High School dropped very slightly from 83.42 to 83
 #### Figure 5b: Top 5 Performing Schools After Replacement
 ![Top 5 after update](Resources/challenge_top5.png)
 
-Despite the minor changes in average math and reading scores and percentage of students passing math, reading, and math and reading combined, Thomas High School remains the second top performing school overall. No additional changes top-performing schools were seen.
+Despite the minor changes in average math and reading scores and percentage of students passing math, reading, and math and reading combined, Thomas High School remains the second top-performing school overall. No additional changes top-performing schools were seen.
 
 
 
@@ -138,6 +138,7 @@ There were no notable changes to the performance in the district by school type.
 
 ## Summary
 The changes that were found when removing reading and math scores from the ninth-grade children from Thomas High School were:
+
     1. An insignificant reduction in the average math scores at Thomas High School from 83.42 to 83.35 points.
     2. A corresponding minor reduction in the percentage of students passing math at Thomas High School from 93.3% to 93.2%.
     3. A minor reduction in average reading scores at Thomas High School from 83.85 to 83.90 points.
@@ -145,7 +146,7 @@ The changes that were found when removing reading and math scores from the ninth
     5. A minor reduction in percentage of students passing both math and reading at Thomas High School from 90.9% to 90.6%.
     
 ## Interpretation
-There is little evidence for academic dishonesty based on the analysis of removing scores for 9th graders at Thomas High School. This conclusion is based on the insignificant changes in average reading and math scores at Thomas High School and corresponding insignificant changes in the percentage of children at Thomas High School passing math, reading, and both math and reading.  With the ninth grade representing 28.1% of the total student population at Thomas High School, any significant change in scores away from the expected performance would have been manifest in a larger change both average scores and percent passing.
+There is little evidence for academic dishonesty based on the analysis of removing scores for 9th graders at Thomas High School. This conclusion is based on the insignificant changes in average reading and math scores at Thomas High School and corresponding insignificant changes in the percentage of children at Thomas High School passing math, reading, and both math and reading.  With the ninth grade representing 28.1% of the total student population at Thomas High School, any significant change in scores away from the expected performance would have been manifest in a larger change for both average scores and percent passing.
 
 ## Limitations
 The analysis for detecting dishonesty is fairly robust at a school level where the ninth grade represents roughly one-fourth of the student population. However, the district analysis has limited sensitivity due to the fact that the 461 ninth-grade students only represent 1.2% of the total district student population. Even extremely large deviations of the scores away from what is expected would be very difficult to detect on a district level.  Therefore, the school board should base their conclusions and further actions on the school-level summaries.   
